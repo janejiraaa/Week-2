@@ -1,8 +1,8 @@
 using System;
 
-namespace Lab2
+namespace Lab201
 {
-	class MainClass
+	class student
 	{
 		public static void Main (string[] args)
 		{
